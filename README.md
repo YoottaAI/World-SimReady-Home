@@ -2,6 +2,8 @@
 
 # World-SimReady-Home
 
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/Yootta/World-SimReady-Home)
+
 </div>
 
 ![A selection of furnished household environments, viewed from above](assets/scene-overview.jpg)
