@@ -32,7 +32,3 @@ If you use World-SimReady-Home in your research, please cite the dataset and rec
 ## License
 
 The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
-
----
-
-<p align="center"><b>World-SimReady-Home</b><br><sub>Household environments · Robot demonstrations · Embodied AI research</sub></p>
