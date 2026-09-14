@@ -2,7 +2,8 @@
 
 # World-SimReady-Home
 
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/Yootta/World-SimReady-Home)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=for-the-badge)](https://huggingface.co/datasets/Yootta/WorldSimReady-Home)
+[![ModelScope 魔搭](https://img.shields.io/badge/ModelScope-%E9%AD%94%E6%90%AD-624AFF?style=for-the-badge)](https://modelscope.cn/datasets/Yootta/World-SimReady-Home)
 
 </div>
 
@@ -32,3 +33,4 @@ If you use World-SimReady-Home in your research, please cite the dataset and rec
 ## License
 
 The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
