@@ -11,7 +11,9 @@
 
 ## Overview
 
-WorldSimReady-Home is built from manually created object assets with consistent physical properties. These assets are assembled into household scenes, each of which undergoes manual review to ensure that its physical properties are correctly configured. Building on these scenes, we developed a scalable simulation task data generation framework that supports batch generation across different robot embodiments and tasks.
+WorldSimReady-Home is built from CAD-based object assets, optimized and enriched with physical properties to create simulation-ready assets. The assets are assembled into household scenes, each manually reviewed for correct physics configuration.
+
+A scalable simulation task data generation framework builds on these scenes to generate data across robot embodiments and tasks.
 
 ## Explore the dataset
 
